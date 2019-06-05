@@ -1,0 +1,39 @@
+body h1 {
+	color: #FFFFFF;
+}
+
+h1 {
+	height: 80px;
+	background-color:#6b5b95;
+	text-align: center;
+	padding-top: 10px;
+}
+
+#basic-button-area {
+	margin-top: 15px;
+}
+
+#basic-button-area input[type="button"] {
+	margin-right: 10px;
+}
+
+#graphics-area {
+	margin-top: 20px;
+}
+
+#console-area {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#console-inner-area {
+	border: 1px solid #555555;
+	border-radius: 5px;
+	padding: 10px;
+	height: 200px;
+	background-color: #000000;
+	color: #FFFFFF;
+	overflow-x: hidden;
+	overflow-y: auto;
+	word-break : break-all;
+}
